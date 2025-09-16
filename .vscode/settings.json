@@ -1,0 +1,10 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "html": "html"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.suggest.showWords": true,
+  "tailwindCSS.experimental.configFile": "./tailwind.config.js"
+}
